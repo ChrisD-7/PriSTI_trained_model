@@ -1,3 +1,10 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# This is a trained model on the same dataset but with less cols I have made changes to the model too mostly to accept the smaller dataset especially
+# as some sections were hard coded.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
 # PriSTI: A Conditional Diffusion Framework for Spatiotemporal Imputation
 
 This is an official implementation of PriSTI (ICDE 2023). We provided the codes about the experiments on air quality dataset AQI-36 and traffic speed datasets METR-LA and PEMS-BAY.
